@@ -1,0 +1,22 @@
+{
+  "name": "js_proj_1",
+  "version": "1.0.0",
+  "description": "first js project, will be used for testing basic js and nodeJS ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bviveros/roulette_game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bviveros/roulette_game/issues"
+  },
+  "homepage": "https://github.com/bviveros/roulette_game#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
